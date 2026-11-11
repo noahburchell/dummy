@@ -7,6 +7,9 @@ nasm -f elf64 main.asm -o main.o
 ld -s -n --build-id=none main.o -o <program name>
 #+end_example
 
+** sources
+- W. R. Stevens and S. A. Rago, /Advanced Programming in the UNIX Environment/, 3rd ed. Upper Saddle River, NJ, USA: Addison-Wesley, 2013, ch. 13.
+
 ** license
 public domain
 
