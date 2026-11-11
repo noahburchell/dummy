@@ -1,0 +1,8 @@
+* dummy
+
+this program does nothing, i use it to make fake discord status games
+
+#+begin_example
+nasm -f elf64 main.asm -o main.o
+ld -s -n --build-id=none main.o -o <program name>
+#+end_example
