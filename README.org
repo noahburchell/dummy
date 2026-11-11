@@ -6,3 +6,9 @@ this program does nothing, i use it to make fake discord status games
 nasm -f elf64 main.asm -o main.o
 ld -s -n --build-id=none main.o -o <program name>
 #+end_example
+
+** license
+public domain
+
+** contact
+noreply@nburch.org
