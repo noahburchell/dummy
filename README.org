@@ -11,4 +11,4 @@ ld -s -n --build-id=none main.o -o <program name>
 public domain
 
 ** contact
-noreply@nburch.org
+noreply@flaregun.org
